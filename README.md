@@ -21,15 +21,13 @@ Our solutions are designed for scalability and impact, helping organizations of 
 ## About Us
 
 ### Meet the Team
-
-| ![Veljko Kovac](/veljko_portrait.jpeg) | ![Charlie Dickens](charlie_portrait.jpeg) |
+| <img src="/veljko.jpg" width="250" height="250" alt="Veljko Kovac"> | <img src="/charlie.jpg" width="250" height="250" alt="Charlie Dickens"> |
 |:--:|:--:|
 | **Veljko Kovac** | **Charlie Dickens** |
-| Veljko has extensive AI modeling experience, with successful deployments across all public hospitals in Hong Kong. An MSc AI graduate from the University of Amsterdam, he was honored by ELLIS under the mentorship of renowned researchers Petar Veličković and Prof. Pietro Liò. | Charlie, formerly of Yahoo's DataSketches team, focuses on randomized algorithms for analyzing large data sets. He earned his PhD from the University of Warwick, where he received the Faculty Thesis Prize in Computer Science. |
-
+| Veljko Kovac has several years of AI modeling experience. Published at top tier conferences. He holds an MSc in AI from the University of Amsterdam and received an award of ELLIS Honours supervised by Petar Velickovic who is a senior research scientist at Google DeepMind and Prof. Pietro Liò who is a professor at the University of Cambridge. His AI models in Hong Kong Hospital Authority have been deployed in all public hospitals in Hong Kong, successfully assisting the doctors in their every day routine. | Charlie Dickens was previously a research scientist at Yahoo working on the DataSketches team. His research interests are in randomized algorithms for large-scale data analysis and machine learning, as well as fundamental matrix computations. Between 2016-2021, he was a PhD student at the University of Warwick’s Department of Computer Science, supervised by Graham Cormode. His PhD won the Faculty of Science, Engineering and Medicine Thesis Prize in Computer Science. |
 ---
 
 ## Contact Us
 
 For collaborations, inquiries, or more information on how Froogle AI can enhance your operations, reach out to us at:
-[contact@froogleai.com](mailto:contact@froogleai.com)
+[contact@froogleai.com](mailto:froogleai24@gmail.com)
