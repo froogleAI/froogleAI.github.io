@@ -20,12 +20,17 @@ Our solutions are designed for scalability and impact, helping organizations of 
 
 ## About Us
 
-### Meet the Team
-| <img src="/veljko_portrait.jpeg" width="250" height="250" alt="Veljko Kovac"> | <img src="/charlie_portrait.jpeg" width="250" height="250" alt="Charlie Dickens"> |
-|:--:|:--:|
-| **Veljko Kovac** | **Charlie Dickens** |
-| Veljko Kovac has extensive experience in AI modelling, holding an MSc in Artificial Intelligence from the University of Amsterdam where he received ELLIS Honours and cum laude distinction. His pioneering research on Graph Neural Networks was published at top-tier conferences. He was a Visiting Researcher at the University of Cambridge, supervised by Dr. Veličković (Google DeepMind) and Prof. Dr. Pietro Liò (U. Cambridge). Before this, Veljko developed several AI models that are now deployed across all public hospitals in Hong Kong, significantly aiding daily medical practices. | Charlie Dickens was previously a research scientist at Yahoo working on the DataSketches team. His research interests are in randomized algorithms for large-scale data analysis and machine learning, as well as fundamental matrix computations. Between 2016-2021, he was a PhD student at the University of Warwick’s Department of Computer Science, supervised by Graham Cormode. His PhD won the Faculty of Science, Engineering and Medicine Thesis Prize in Computer Science. |
----
+## Meet the Team
+
+| ![Veljko Kovac](/veljko_portrait.jpg) | ![Charlie Dickens](/charlie_portrait.jpeg) |
+|:-----------------------------------:|:--------------------------------------:|
+| **Veljko Kovac**                    | **Charlie Dickens**                    |
+
+**Veljko Kovac**  
+Veljko Kovac has extensive experience in AI modeling, holding an MSc in Artificial Intelligence from the University of Amsterdam where he received ELLIS Honours and cum laude distinction. His pioneering research on Graph Neural Networks was published at top-tier conferences. He was a Visiting Researcher at the University of Cambridge, supervised by Dr. Veličković (Google DeepMind) and Prof. Dr. Pietro Liò (U. Cambridge). Before this, Veljko developed several AI models that are now deployed across all public hospitals in Hong Kong, significantly aiding daily medical practices.
+
+**Charlie Dickens**  
+Charlie Dickens was previously a research scientist at Yahoo working on the DataSketches team. His research interests are in randomized algorithms for large-scale data analysis and machine learning, as well as fundamental matrix computations. Between 2016-2021, he was a PhD student at the University of Warwick’s Department of Computer Science, supervised by Graham Cormode. His PhD won the Faculty of Science, Engineering and Medicine Thesis Prize in Computer Science.
 
 ## Contact Us
 
