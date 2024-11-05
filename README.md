@@ -22,7 +22,7 @@ Our solutions are designed for scalability and impact, helping organizations of 
 
 ## Meet the Team
 
-| ![Veljko Kovac](/veljko_portrait.jpg) | ![Charlie Dickens](/charlie_portrait.jpeg) |
+| ![Veljko Kovac](/veljko_portrait.jpeg) | ![Charlie Dickens](/charlie_portrait.jpeg) |
 |:-----------------------------------:|:--------------------------------------:|
 | **Veljko Kovac**                    | **Charlie Dickens**                    |
 
