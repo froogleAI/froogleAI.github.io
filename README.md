@@ -30,4 +30,4 @@ Our solutions are designed for scalability and impact, helping organizations of 
 ## Contact Us
 
 For collaborations, inquiries, or more information on how Froogle AI can enhance your operations, reach out to us at:
-[contact@froogleai.com](mailto:froogleai24@gmail.com)
+[froogleai24@gmail.com](mailto:froogleai24@gmail.com)
